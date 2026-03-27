@@ -106,3 +106,7 @@ My long-term direction is moving toward **AI agents**, **frontend systems**, and
 <p align="center">
   <sub>Love / Life / Dream</sub>
 </p>
+
+<p align="center">
+  <img src="./assets/vinyl.svg" width="180" alt="Spinning vinyl record" />
+</p>

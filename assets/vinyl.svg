@@ -1,0 +1,35 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Spinning vinyl record">
+  <rect width="320" height="320" fill="#FFFFFF"/>
+  <defs>
+    <clipPath id="coverClip">
+      <circle cx="0" cy="0" r="30"/>
+    </clipPath>
+  </defs>
+
+  <g transform="translate(160 160)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.8s" repeatCount="indefinite"/>
+      <circle r="108" fill="#0E0E0E"/>
+      <circle r="104" stroke="#1E1E1E" stroke-width="1.2"/>
+      <circle r="90" stroke="#2A2A2A" stroke-width="1"/>
+      <circle r="78" stroke="#242424" stroke-width="1"/>
+      <circle r="66" stroke="#2E2E2E" stroke-width="1"/>
+      <circle r="54" stroke="#252525" stroke-width="1"/>
+      <circle r="42" stroke="#303030" stroke-width="0.9"/>
+      <circle r="31.5" fill="#F4F4F4"/>
+      <g clip-path="url(#coverClip)">
+        <image x="-32" y="-32" width="64" height="64" preserveAspectRatio="xMidYMid slice" href="./bully-cover.jpg"/>
+      </g>
+      <circle r="4.5" fill="#111111"/>
+      <path d="M0-104A104 104 0 0 1 73.5-73.5" stroke="#4A4A4A" stroke-opacity="0.38" stroke-width="2" stroke-linecap="round"/>
+      <path d="M-64 82A104 104 0 0 1 -100 29" stroke="#3D3D3D" stroke-opacity="0.28" stroke-width="2" stroke-linecap="round"/>
+    </g>
+
+    <g opacity="0.88">
+      <path d="M58 -72L112 -118" stroke="#C9C9C9" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="116" cy="-122" r="10" fill="#D7D7D7"/>
+      <path d="M58 -72C46 -59 38 -44 38 -26" stroke="#C9C9C9" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="38" cy="-20" r="6" fill="#BEBEBE"/>
+    </g>
+  </g>
+</svg>
