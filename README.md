@@ -1,61 +1,83 @@
-# Hi there! 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to writing clean code, building meaningful projects, and contributing to the open-source community.
+<pre>
+███████╗  ██████╗   ██████╗
+██╔════╝ ██╔════╝  ██╔════╝
+██║  ███╗██║  ███╗ ██║  ███╗
+██║   ██║██║   ██║ ██║   ██║
+╚██████╔╝╚██████╔╝ ╚██████╔╝
+ ╚═════╝  ╚═════╝   ╚═════╝
+</pre>
 
-## 🚀 About Me
+<p>
+  <i>There is no better teacher than adversity.</i>
+</p>
 
-I'm enthusiastic about technology and love tackling challenging problems. I believe in continuous learning and collaboration. Whether it's backend systems, frontend interfaces, or full-stack solutions, I'm always excited to explore new technologies and best practices.
-
-## 💼 What I Do
-
-- **Build & Create**: Developing software solutions that solve real-world problems
-- **Learn & Share**: Constantly expanding my skill set and contributing knowledge back to the community
-- **Collaborate**: Working with talented teams to ship quality products
-
-## 🛠️ Tech Stack
-
-*To be personalized with your specific technologies and tools*
-
-## 📈 Featured Projects
-
-*Showcase your best work here*
-
-## 🌟 Highlights
-
-- 🎯 Focused on writing clean, maintainable code
-- 📚 Lifelong learner with a passion for open source
-- 🤝 Strong believer in community and collaboration
-- ⚡ Always up for interesting challenges
-
-## 📊 GitHub Stats
-
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=gggchang4&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gggchang4&layout=compact&theme=radical)
-
-## 🔗 Let's Connect
-
-*Add your social links here*
-
-## 💬 Get In Touch
-
-Feel free to reach out if you'd like to collaborate, discuss ideas, or just chat about tech!
+</div>
 
 ---
 
-*Last updated: March 2026*
+## About
 
-<!--
-**gggchang4/gggchang4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **GGG Chang**, a computer science student at Wuhan University of Science and Technology.
 
-Here are some ideas to get you started:
+My work focuses on the intersection of **software engineering, interface design, and intelligent systems**.  
+I aim to build systems that are not only functional, but also **structured, expressive, and scalable**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently preparing for **graduate and doctoral studies**, with a strong interest in advancing toward **AI and agent-based systems**.
+
+---
+
+## Focus
+
+```text
+• AI Agents & intelligent systems
+• Frontend architecture with strong visual discipline
+• Clean and maintainable system design
+• Bridging engineering and product aesthetics
+```
+
+---
+
+## Tech Stack
+
+**Languages**  
+C++ · Java · Python · JavaScript · TypeScript  
+
+**Frontend**  
+Vue 3 · React · HTML · CSS  
+
+**Engineering**  
+Git · RESTful APIs · System Design  
+
+**AI Direction**  
+Agent Systems · LLM Applications · AI Coding  
+
+---
+
+## Direction
+
+- Pursuing deeper research in **Artificial Intelligence and agent systems**
+- Building projects that combine **engineering depth with design quality**
+- Moving toward **advanced study (Master / PhD)**
+
+---
+
+## Favorite Artists
+
+> Kyrie Irving 
+> Kanye West
+> Justin bieber
+> Asen
+
+---
+
+<div align="center">
+
+```text
+───────────────  G G G  ───────────────
+```
+
+<sub>Love · Life · Dream</sub>
+
+</div>
