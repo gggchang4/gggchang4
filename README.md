@@ -2,18 +2,6 @@
   <img src="./assets/hero.svg" width="100%" alt="GGG Chang animated editorial hero banner" />
 </p>
 
-<p align="center">
-  <sub>
-    Building calm interfaces, expressive systems, and AI-native products with designer-level restraint.
-  </sub>
-</p>
-
-<p align="center">
-  <a href="#about">about</a> /
-  <a href="#signal-grid">signal grid</a> /
-  <a href="#live-panels">live panels</a> /
-  <a href="#philosophy">philosophy</a>
-</p>
 
 ## About
 
