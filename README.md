@@ -46,173 +46,14 @@ My long-term direction is moving toward **AI agents**, **frontend systems**, and
   </tr>
 </table>
 
-## Toolbox
-
-<p align="center">
-  <sub>Click a logo to jump.</sub>
-</p>
-
-<p align="center">
-  <strong>Languages</strong>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://isocpp.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-      </a>
-      <br />
-      <sub>C++</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.oracle.com/java/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-      </a>
-      <br />
-      <sub>Java</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      </a>
-      <br />
-      <sub>Python</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      </a>
-      <br />
-      <sub>JavaScript</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-      </a>
-      <br />
-      <sub>TypeScript</sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <strong>Frontend</strong>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://vuejs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue 3" />
-      </a>
-      <br />
-      <sub>Vue 3</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://react.dev/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" />
-      </a>
-      <br />
-      <sub>React</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
-      </a>
-      <br />
-      <sub>HTML</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
-      </a>
-      <br />
-      <sub>CSS</sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <strong>Engineering</strong>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      </a>
-      <br />
-      <sub>Git</sub>
-    </td>
-    <td align="center" width="180">
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST">
-        <sub>RESTful APIs</sub>
-      </a>
-    </td>
-    <td align="center" width="180">
-      <a href="https://learn.microsoft.com/en-us/azure/architecture/">
-        <sub>System Design</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## AI Toolkit
-
-<p align="center">
-  <sub>Click a logo to jump.</sub>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <a href="https://claude.ai/">
-        <img src="https://cdn.simpleicons.org/anthropic/111111" width="42" height="42" alt="Claude" />
-      </a>
-      <br />
-      <sub>Claude</sub>
-    </td>
-    <td align="center" width="120">
-      <a href="https://openai.com/chatgpt/overview/">
-        <img src="https://cdn.simpleicons.org/openai/111111" width="42" height="42" alt="ChatGPT" />
-      </a>
-      <br />
-      <sub>ChatGPT</sub>
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.anthropic.com/claude-code/">
-        <img src="https://cdn.simpleicons.org/anthropic/111111" width="42" height="42" alt="Claude Code" />
-      </a>
-      <br />
-      <sub>Claude Code</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://openai.com/codex/">
-        <img src="https://cdn.simpleicons.org/openai/111111" width="42" height="42" alt="Codex" />
-      </a>
-      <br />
-      <sub>Codex</sub>
-    </td>
-    <td align="center" width="120">
-      <a href="https://cursor.com/">
-        <img src="https://cdn.simpleicons.org/cursor/111111" width="42" height="42" alt="Cursor" />
-      </a>
-      <br />
-      <sub>Cursor</sub>
-    </td>
-    <td align="center" width="120">
-      <a href="https://github.com/features/copilot">
-        <img src="https://cdn.simpleicons.org/githubcopilot/111111" width="42" height="42" alt="GitHub Copilot" />
-      </a>
-      <br />
-      <sub>GitHub Copilot</sub>
-    </td>
-  </tr>
-</table>
+## Tool Box
+| Property                                        | Data |
+|-------------------------------------------------|------|
+| **Language / IDE**                              | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Frontend / Client**                           | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white) |
+| **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+| **AI Agent / Coding Tools**                     | ![Claude](https://img.shields.io/badge/-Claude%20Code-5436DA?style=flat&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/-OpenAI%20Codex-412991?style=flat&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white) |
+| **Tools & Platform**                            | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ## Selected Directions
 
@@ -252,6 +93,18 @@ My long-term direction is moving toward **AI agents**, **frontend systems**, and
 - Motion should guide attention, not compete for it.
 - Good products feel engineered and art-directed at the same time.
 - AI is most interesting when it amplifies judgment, not just output.
+
+## Profile Views
+<p align="center">
+  <img src="https://count.getloli.com/get/@gggchang4.github.readme?theme=digital" alt="Visitor Flip Clock" width="220">
+</p>
+
+## Star History
+<p align="center">
+  <a href="https://star-history.com/#gggchang4/gggchang4&Date">
+    <img src="https://api.star-history.com/svg?repos=gggchang4/gggchang4&type=Date" alt="Star History Chart" width="80%">
+  </a>
+</p>
 
 ## Album Today
 
