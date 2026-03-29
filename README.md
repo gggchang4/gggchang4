@@ -58,7 +58,4 @@ I believe that coding is a tpye of ART,and I wanna be an ARTIST.
 ╚██████╔╝╚██████╔╝ ╚██████╔╝
  ╚═════╝  ╚═════╝   ╚═════╝
 </pre>
-
-<div align="center">
-  <img src="https://stats.justsong.cn/api/github?username=gggchang4&show_icons=true&theme=dark" alt="stats" />
 </div>
