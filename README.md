@@ -39,7 +39,7 @@ I believe that coding is a tpye of ART,and I wanna be an ARTIST.
 ## Album Today
 
 <p align="center">
-  <sub>Music Inspires True Creativity.</sub>
+  <sub>Anybody does somethin' that much and that long and is that good, it's gotta pay off  --Knaye.</sub>
 </p>
 
 <p align="center">
