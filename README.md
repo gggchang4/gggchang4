@@ -9,6 +9,8 @@ I am **GGG Chang**, a computer science student from **Wuhan University of Scienc
 
 I believe that coding is a tpye of ART,and I wanna be an ARTIST.
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=000000&width=435&lines=Asen;Kanye+West;Justin+Bieber" alt="Typing SVG" /></a>
+
 
 ## Tool Box
 | Property                                        | Data |
@@ -47,7 +49,7 @@ I believe that coding is a tpye of ART,and I wanna be an ARTIST.
 </p>
 
 <div align="center">
-
+  
 <pre>
 ███████╗  ██████╗   ██████╗
 ██╔════╝ ██╔════╝  ██╔════╝
@@ -56,3 +58,7 @@ I believe that coding is a tpye of ART,and I wanna be an ARTIST.
 ╚██████╔╝╚██████╔╝ ╚██████╔╝
  ╚═════╝  ╚═════╝   ╚═════╝
 </pre>
+
+<div align="center">
+  <img src="https://stats.justsong.cn/api/github?username=gggchang4&show_icons=true&theme=dark" alt="stats" />
+</div>
