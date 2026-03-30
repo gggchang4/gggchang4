@@ -11,6 +11,15 @@ I believe that coding is a tpye of ART,and I wanna be an ARTIST.
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=000000&width=435&lines=Asen;Kanye+West;Justin+Bieber" alt="Typing SVG" /></a>
 
+## Album Today
+
+<p align="center">
+  <sub>Anybody does somethin' that much and that long and is that good, it's gotta pay off  --Knaye.</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/vinyl.svg" width="240" alt="Spinning vinyl record" />
+</p>
 
 ## Tool Box
 | Property                                        | Data |
@@ -37,16 +46,6 @@ I believe that coding is a tpye of ART,and I wanna be an ARTIST.
    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=gggchang4/gggchang4&type=timeline&logscale&legend=top-left" />
  </picture>
 </a>
-
-## Album Today
-
-<p align="center">
-  <sub>Anybody does somethin' that much and that long and is that good, it's gotta pay off  --Knaye.</sub>
-</p>
-
-<p align="center">
-  <img src="./assets/vinyl.svg" width="240" alt="Spinning vinyl record" />
-</p>
 
 <div align="center">
   
