@@ -2,15 +2,21 @@
   <img src="./assets/hero.svg" width="100%" alt="GGG Chang animated editorial hero banner" />
 </p>
 
-
+<div align ="center">
+  
 ## About
 
-I am **GGG Chang**, a computer science student from **Wuhan University of Science and Technology**.
+I am **GGG Chang**, a computer science student from **Wuhan University**.
 
 I believe that coding is a tpye of ART,and I wanna be an ARTIST.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=000000&width=435&lines=Asen;Kanye+West;Justin+Bieber" alt="Typing SVG" /></a>
+By the way, I am seeking for job opportunities.
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Neonderthaw&size=30&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=ASEN;Kanye+West;Justin+Bieber" alt="Typing SVG" /></a>
+
+</div>
+<div align ="center">
+  
 ## Album Today
 
 <p align="center">
@@ -20,7 +26,7 @@ I believe that coding is a tpye of ART,and I wanna be an ARTIST.
 <p align="center">
   <img src="./assets/vinyl.svg" width="240" alt="Spinning vinyl record" />
 </p>
-
+</div>
 <div align="center">
 
 ## Tool Box
