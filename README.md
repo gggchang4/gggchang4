@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="GGG Chang animated editorial hero banner" />
+  <img src="./assets/hero_1.png" width="100%" alt="GGG Chang animated editorial hero banner" />
 </p>
 
 
