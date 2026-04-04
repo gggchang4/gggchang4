@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="I Am Looking For A JOB">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+      @font-face {
+        font-family: "ShrikhandSubset";
+        src: url(data:font/woff2;base64,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) format("woff2");
+        font-weight: 400;
+        font-style: normal;
+        font-display: block;
+      }
+      .t { font-family: ShrikhandSubset, Shrikhand, cursive; fill: #ff3d9a; }
+      ]]>
+    </style>
+    <filter id="neonGlow" x="-80%" y="-80%" width="260%" height="260%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3.2" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="b2"/>
+      <feMerge>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="300" fill="#070714"/>
+  <g filter="url(#neonGlow)" opacity="0.95">
+    <text class="t" x="500" y="118" text-anchor="middle" font-size="56" letter-spacing="2">I Am Looking For</text>
+    <text class="t" x="500" y="238" text-anchor="middle" font-size="72" letter-spacing="4">A JOB!</text>
+    <animate attributeName="opacity" values="0.82;1;0.88;0.95;1;0.84;1" keyTimes="0;0.15;0.3;0.45;0.6;0.8;1" dur="3.2s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <text class="t" x="500" y="118" text-anchor="middle" font-size="56" fill="#ffb8e0" stroke="#ff6eb4" stroke-width="0.6" letter-spacing="2" paint-order="stroke fill">I Am Looking For</text>
+    <text class="t" x="500" y="238" text-anchor="middle" font-size="72" fill="#fff5fb" stroke="#ff4da6" stroke-width="0.8" letter-spacing="4" paint-order="stroke fill">A JOB!</text>
+    <animate attributeName="opacity" values="0.92;1;0.96;1;0.94;1" keyTimes="0;0.2;0.4;0.55;0.75;1" dur="2.8s" repeatCount="indefinite"/>
+  </g>
+</svg>

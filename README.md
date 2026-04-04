@@ -12,7 +12,9 @@ I believe that coding is a tpye of ART,and I wanna be an ARTIST.
 
 By the way, I am seeking for job opportunities.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Neonderthaw&size=30&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=ASEN;Kanye+West;Justin+Bieber" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="./assets/job-neon.svg" width="100%" alt="I Am Looking For A JOB — neon sign in Shrikhand" />
+</p>
 
 </div>
 <div align ="center">
