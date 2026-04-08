@@ -10,7 +10,7 @@ I am **GGG Chang**, a computer science student from **Wuhan University**.
 
 I believe that coding is a tpye of ART,and I wanna be an ARTIST.
 
-By the way, I am seeking for job opportunities.
+By the way, I am seeking for job opportunities(both intern & full-time are acceptable).
 
 <p align="center">
   <img src="./assets/job-neon.svg" width="100%" alt="I Am Looking For A JOB — neon sign in Shrikhand" />
