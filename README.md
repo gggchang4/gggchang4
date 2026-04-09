@@ -48,7 +48,7 @@ By the way, I am seeking for job opportunities(both intern & full-time are accep
 <br />
 
 <p align="center">
-  <sub>Selected Work</sub>
+  <sub>Portfolio</sub>
 </p>
 
 <p align="center">
