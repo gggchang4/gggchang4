@@ -33,13 +33,62 @@ By the way, I am seeking for job opportunities(both intern & full-time are accep
 
 ## Tool Box
 
-| Property                                        | Data |
-|-------------------------------------------------|------|
-| **Language **                              | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **Frontend / Client**                           | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white) |
-| **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
-| **AI Agent / Coding Tools**                     | ![Claude](https://img.shields.io/badge/-Claude%20Code-5436DA?style=flat&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/-OpenAI%20Codex-412991?style=flat&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white) |
-| **Tools & Platform**                            | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
+<p align="center">
+  <sub>Tools set the language. Projects reveal the taste.</sub>
+</p>
+
+| Property | Data |
+|----------|------|
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Frontend / Client** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+| **AI Agent / Coding Tools** | ![Claude](https://img.shields.io/badge/-Claude%20Code-5436DA?style=flat&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/-OpenAI%20Codex-412991?style=flat&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white) |
+| **Tools & Platform** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
+
+<br />
+
+<p align="center">
+  <sub>Selected Work</sub>
+</p>
+
+<p align="center">
+  <sub>Product-minded frontend, agent interaction, and systems work shaped with care.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>AI FITNESS AGENT</sub>
+      <h3><a href="https://github.com/gggchang4/GymPal">GymPal</a></h3>
+      <p>A conversational fitness product that brings training plans, nutrition, recovery, and daily guidance into one agent-centered experience.</p>
+      <p><strong>Stack</strong><br />Next.js 14 · TypeScript · NestJS · FastAPI · Prisma · PostgreSQL · OpenAI-compatible runtime</p>
+      <p><strong>Role</strong><br />Frontend engineer + agent engineer</p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>DOCUMENTATION AS PRODUCT</sub>
+      <h3><a href="https://github.com/gggchang4/Git-Tutorial">Git Tutorial</a></h3>
+      <p>A documentation-first Git project that turns scattered commands and habits into one coherent learning system, reference manual, and workflow guide.</p>
+      <p><strong>Stack</strong><br />Markdown · Git · GitHub · SVG assets · documentation system design</p>
+      <p><strong>Role</strong><br />Designed and built solo</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>DATABASE SYSTEM</sub>
+      <h3><a href="https://github.com/gggchang4/WHU-CSLab-DB-Genealogy">WHU-CSLab-DB-Genealogy</a></h3>
+      <p>A genealogy management system built around recursive lineage queries, large synthetic datasets, and query-performance analysis for database coursework.</p>
+      <p><strong>Stack</strong><br />PostgreSQL · SQL · Recursive CTE · Python · data generation scripts · EXPLAIN analysis · web demo prototype</p>
+      <p><strong>Role</strong><br />Designed and built solo</p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>RELATIONSHIP AGENT</sub>
+      <h3>LoveMediator</h3>
+      <p>A private relationship-support agent for couples, shaped around emotional regulation, guided reflection, and calmer conflict resolution.</p>
+      <p><strong>Stack</strong><br />React · TypeScript · Python · FastAPI · PostgreSQL</p>
+      <p><strong>Role</strong><br />Frontend engineer + agent engineer</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
