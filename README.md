@@ -47,9 +47,7 @@ By the way, I am seeking for job opportunities(both intern & full-time are accep
 
 <br />
 
-<p align="center">
-  <sub>Portfolio</sub>
-</p>
+## Portfolio
 
 <p align="center">
   <sub>Product-minded frontend, agent interaction, and systems work shaped with care.</sub>
