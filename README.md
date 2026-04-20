@@ -125,9 +125,9 @@ By the way, I am seeking for job opportunities(both intern & full-time are accep
 </pre>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <pre>
 
   </pre>
-</div>
+</div> -->
                                                                                 
