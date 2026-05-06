@@ -82,7 +82,7 @@ By the way, I am seeking for job opportunities(both intern & full-time are accep
     </td>
     <td width="50%" valign="top">
       <sub>RELATIONSHIP AGENT</sub>
-      <h3>LoveMediator</h3>
+      <h3><a href="http://8.148.72.200">LoveMediator</a></h3>
       <p>A private relationship-support agent for couples, shaped around emotional regulation, guided reflection, and calmer conflict resolution.</p>
       <p><strong>Stack</strong><br />React · TypeScript · Python · FastAPI · PostgreSQL</p>
       <p><strong>Role</strong><br />Frontend engineer + agent engineer</p>
