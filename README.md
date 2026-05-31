@@ -126,7 +126,5 @@ By the way, I am seeking for job opportunities(both intern & full-time are accep
 </div>
 
 <div align="center">
-  <pre>
-    <img src="./assets/jaguar_GGG.png" />
-  </pre>
+  <img src="./assets/jaguar_GGG.png" />
 </div>
