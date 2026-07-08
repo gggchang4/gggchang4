@@ -128,4 +128,8 @@ By the way, I am seeking for job opportunities(both intern & full-time are accep
 <div align="center">
   <img src="./assets/jaguar_GGG.png" />
 </div>
-[![My GitFut card](https://gitfut.com/gggchang4.png)](https://gitfut.com/gggchang4)
+<p align="center">
+  <a href="https://gitfut.com/gggchang4?country=hk">
+    <img src="https://gitfut.com/gggchang4.png?country=hk&v=2" alt="My GitFut card" width="380" />
+  </a>
+</p>
