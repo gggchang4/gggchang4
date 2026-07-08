@@ -41,54 +41,55 @@ By the way, I am seeking for job opportunities(both intern & full-time are accep
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <strong>🧩 Languages</strong>
+    <td align="center">
+      <strong>Languages</strong>
       <br /><br />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <br />
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    </td>
-    <td align="center" width="50%">
-      <strong>🎨 Frontend / Client</strong>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <br />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-0F172A?style=flat-square&logo=cplusplus&logoColor=6295CB" />
+      <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FFD43B" />
+      <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=F89820" />
+      <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" />
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="50%">
-      <strong>🗄️ Database</strong>
+    <td align="center">
+      <strong>Frontend / Client</strong>
       <br /><br />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <br />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-    </td>
-    <td align="center" width="50%">
-      <strong>🤖 AI Agent / Coding Tools</strong>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" />
-      <br />
-      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js-0F172A?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+      <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=02569B" />
+      <img src="https://img.shields.io/badge/Swift-0F172A?style=flat-square&logo=swift&logoColor=FA7343" />
     </td>
   </tr>
 
   <tr>
-    <td align="center" colspan="2">
-      <strong>⚙️ Tools & Platform</strong>
+    <td align="center">
+      <strong>Database</strong>
       <br /><br />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1" />
+      <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=003B57" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>AI Agent / Coding Tools</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Claude%20Code-0F172A?style=flat-square&logo=anthropic&logoColor=D97757" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Codex-0F172A.svg?style=flat-square&logo=terminal&logoSource=feather&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/Cursor-0F172A?style=flat-square&logo=cursor&logoColor=FFFFFF" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Tools & Platform</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Git-0F172A.svg?style=flat-square&logo=git&logoColor=F05032" />
+      <img src="https://img.shields.io/badge/GitHub-0F172A.svg?style=flat-square&logo=github&logoColor=FFFFFF" />
+      <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0F172A.svg?style=flat-square&logo=code&logoSource=feather&logoColor=007ACC" />
     </td>
   </tr>
 </table>
