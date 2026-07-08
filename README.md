@@ -160,6 +160,12 @@ By the way, I am seeking for job opportunities(both intern & full-time are accep
   <a href="https://info.flagcounter.com/whSi"><img src="https://s05.flagcounter.com/map/whSi/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 </div>
 
+<p align="center">
+  <a href="https://gitfut.com/gggchang4?country=hk">
+    <img src="https://gitfut.com/gggchang4.png?country=hk&v=2" alt="My GitFut card" width="380" />
+  </a>
+</p>
+
 <div align="center">
   
 <pre>
@@ -171,12 +177,3 @@ By the way, I am seeking for job opportunities(both intern & full-time are accep
  ╚═════╝   ╚═════╝   ╚═════╝
 </pre>
 </div>
-
-<div align="center">
-  <img src="./assets/jaguar_GGG.png" />
-</div>
-<p align="center">
-  <a href="https://gitfut.com/gggchang4?country=hk">
-    <img src="https://gitfut.com/gggchang4.png?country=hk&v=2" alt="My GitFut card" width="380" />
-  </a>
-</p>
