@@ -148,11 +148,13 @@ By the way, I am seeking for job opportunities(both intern & full-time are accep
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=gggchang4%2Fgggchang4&type=timeline&logscale=&legend=top-left">
+## Star History
+
+<a href="https://www.star-history.com/?repos=gggchang4%2Fgggchang4&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=gggchang4/gggchang4&type=timeline&theme=dark&logscale&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=gggchang4/gggchang4&type=timeline&logscale&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=gggchang4/gggchang4&type=timeline&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=gggchang4/gggchang4&type=date&theme=dark&legend=top-left&sealed_token=L22FcW6gwvymlkMpV9G0WYTAYnuDMTaTnaK12cPw9wp-qFxmFrK4POkVL0A2lSYYPsILyys3gRtt6mSziVg_2tESUffry4mR_dhYA675AQh4Y9zm31TGsBbC9cnFRDzz5ooC7jTSUvdzf1j9l4geLbuUUDGd55wsb__UTwrmurF-7nBon5eTkafkXvJq" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=gggchang4/gggchang4&type=date&legend=top-left&sealed_token=L22FcW6gwvymlkMpV9G0WYTAYnuDMTaTnaK12cPw9wp-qFxmFrK4POkVL0A2lSYYPsILyys3gRtt6mSziVg_2tESUffry4mR_dhYA675AQh4Y9zm31TGsBbC9cnFRDzz5ooC7jTSUvdzf1j9l4geLbuUUDGd55wsb__UTwrmurF-7nBon5eTkafkXvJq" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=gggchang4/gggchang4&type=date&legend=top-left&sealed_token=L22FcW6gwvymlkMpV9G0WYTAYnuDMTaTnaK12cPw9wp-qFxmFrK4POkVL0A2lSYYPsILyys3gRtt6mSziVg_2tESUffry4mR_dhYA675AQh4Y9zm31TGsBbC9cnFRDzz5ooC7jTSUvdzf1j9l4geLbuUUDGd55wsb__UTwrmurF-7nBon5eTkafkXvJq" />
  </picture>
 </a>
 
