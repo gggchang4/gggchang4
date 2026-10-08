@@ -6,9 +6,11 @@
   
 ## About
 
-I am **GGG Chang**, an incoming master's student (研0) at the **School of Computer Science, Wuhan University**.
+I am **GGG Chang**, a prospective graduate student at the **School of Computer Science, Wuhan University**.
 
-I have joined **ICSLab** and am currently learning with the **Agent for OS** project team.
+I have joined **[ICSLab](https://icslab.whu.edu.cn/)** (Intelligent Computing System Lab) and am currently learning with the **Agent for OS** project team.
+
+The lab focuses on high-performance, energy-efficient computing for AI, including model inference and system optimization, edge and mobile computing, and robotics.
 
 I believe that coding is a tpye of ART,and I wanna be an ARTIST.
 
