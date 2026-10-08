@@ -6,7 +6,9 @@
   
 ## About
 
-I am **GGG Chang**, a computer science student from **Wuhan University**.
+I am **GGG Chang**, an incoming master's student (研0) at the **School of Computer Science, Wuhan University**.
+
+I have joined **ICSLab** and am currently learning with the **Agent for OS** project team.
 
 I believe that coding is a tpye of ART,and I wanna be an ARTIST.
 
